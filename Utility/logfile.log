@@ -1,0 +1,16 @@
+2023-08-24 23:43:10,219 :INFO :test_validate_active_technicians :selected technician 891 is active
+2023-08-24 23:43:34,165 :INFO :test_validate_active_technicians :selected technician 894 is active
+2023-08-24 23:46:00,688 :INFO :test_validate_active_technicians :selected technician 891 is active
+2023-08-24 23:46:26,094 :INFO :test_validate_active_technicians :selected technician 894 is active
+2023-08-25 00:07:18,732 :INFO :test_validate_active_technicians :selected technician 891 is active
+2023-08-25 00:07:42,617 :INFO :test_validate_active_technicians :selected technician 894 is active
+2023-08-25 00:08:16,049 :INFO :test_validate_techfilter :Home_page_technicians_filter_list ['BF [891]', 'tst [894]']
+2023-08-25 00:08:27,156 :INFO :test_validate_techfilter :techmetrics_technicians_list ['BF [891]', 'tst [894]']
+2023-08-25 00:08:48,174 :INFO :test_validate_techfilter :technicians_filter_labor_misses list ['BF [891]', 'tst [894]']
+2023-08-25 00:08:59,638 :INFO :test_validate_techfilter :technicians_filter_parts_misses list ['BF [891]', 'tst [894]']
+2023-08-25 23:36:29,882 :INFO :test_validate_active_technicians :selected technician 891 is active
+2023-08-25 23:36:55,222 :INFO :test_validate_active_technicians :selected technician 894 is active
+2023-08-25 23:37:27,849 :INFO :test_validate_techfilter :Home_page_technicians_filter_list ['BF [891]', 'tst [894]']
+2023-08-25 23:37:44,271 :INFO :test_validate_techfilter :techmetrics_technicians_list ['BF [891]', 'tst [894]']
+2023-08-25 23:38:06,452 :INFO :test_validate_techfilter :technicians_filter_labor_misses list ['BF [891]', 'tst [894]']
+2023-08-25 23:38:18,002 :INFO :test_validate_techfilter :technicians_filter_parts_misses list ['BF [891]', 'tst [894]']
